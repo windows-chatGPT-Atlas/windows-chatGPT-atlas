@@ -1,2 +1,3 @@
 # Planning
 Note customer churn
+Standardize the use of object shorthand notation
